@@ -122,7 +122,6 @@ public class UI {
 		System.out.print(ANSI_WHITE);
 		System.out.println(Arrays.deepToString(white.toArray()));
 		System.out.print(ANSI_RESET);
-		System.out.println("Captured pieces:");
 		System.out.print("Black: ");
 		System.out.print(ANSI_YELLOW);
 		System.out.println(Arrays.deepToString(black.toArray()));
